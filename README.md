@@ -6,7 +6,7 @@
 - Then went to configuration and the credentials.
 - Then a create a new credential.
 
-![VL 35](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform/assets/166546026/7421cf70-ec7b-42d7-acfe-b247203692cd)
+![VL 35](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform/assets/166546026/564e067e-3510-4a23-b608-e291294127d0)
 
 - I named it "Azure VM Credential.
 - I also clicked "yes" to Allow insecure user
