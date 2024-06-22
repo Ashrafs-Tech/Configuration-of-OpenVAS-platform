@@ -1,4 +1,4 @@
-# Configuration of OpenVAS platform
+# Configuration of OpenVAS platform for authenticated scans
 
 ![image](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform/assets/166546026/e09f117d-1882-47ad-a9ad-76521c44c9f4)
 
